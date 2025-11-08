@@ -1,16 +1,37 @@
-# React + Vite
+# 🥂 Mojito — GSAP Animation Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, visually appealing web animation project built using **GSAP (GreenSock Animation Platform)**.  
+This project showcases smooth transitions, creative scroll-based effects, and interactive UI animations designed for an elegant digital experience — themed around a refreshing **Mojito drink**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- ⚡ **GSAP Animations** — Smooth, hardware-accelerated animations.
+- 🌀 **ScrollTrigger Effects** — Interactive animations that respond to user scroll.
+- 🎨 **Modern UI Design** — A clean, minimalistic interface inspired by the Mojito theme.
+- 📱 **Responsive Layout** — Optimized for all screen sizes.
+- 🧩 **Reusable Components** — Built with modular, maintainable code.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **HTML5** — Structure  
+- **CSS3 / TailwindCSS** — Styling  
+- **JavaScript (ES6)** — Interactivity  
+- **GSAP & ScrollTrigger** — Animation Engine  
+
+---
+
+## 🧃 Project Overview
+
+The **Mojito GSAP Project** demonstrates how to use GSAP to bring static designs to life.  
+It includes:
+- A smooth page load animation  
+- Parallax effects during scroll  
+- Element transitions (fade, slide, rotate)  
+- Interactive sections inspired by cocktail ingredients  
+
+
+Try it now - https://mojito-gsap-three.vercel.app/ 
